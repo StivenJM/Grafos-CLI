@@ -1,7 +1,10 @@
-# Proyecto de Estructura de Datos II
+# Explorador de grafos CLI
 
 ## Descripción
 Este proyecto es una aplicación de consola con python que permite la creación, modificación y aplicación de algoritmos sobre grafos. La interfaz de usuario se ha diseñado de manera que facilitará la manipulación de nodos y aristas, así como la ejecución de algoritmos de búsqueda en profundidad (DFS) y búsqueda en amplitud (BFS).
+
+![Inicio de aplicación](docs/imagenes/inicio.png)
+> Para ver todas las imágenes puede acceder a [imagenes de la aplicación](docs/imagenes/).
 
 ## Características
 - **Creación y Modificación de Grafos:** La aplicación permite a los usuarios crear grafos personalizados definiendo nodos y conexiones entre ellos. También se proporciona la capacidad de modificar el grafo en tiempo real.
